@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the paper below."
+title: "FADLinear and LWPT-Focus"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Jilong
+    email: liujilong@mails.neu.edu.cn
+repository-code: "https://github.com/jieJIE1111/signal-padd-foucs-lwpt-fadlinear"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Adaptive processing of non-stationary ship lubrication signals under sporadic impulsive noise"
+  authors:
+    - family-names: Zhang
+      given-names: Meng
+    - family-names: Liu
+      given-names: Jilong
+    - family-names: Han
+      given-names: Bing
+    - family-names: Dong
+      given-names: Shengli
+    - family-names: Cui
+      given-names: Tong
+    - family-names: Ren
+      given-names: Yan
+  journal: "Ocean Engineering"
+  volume: "342"
+  year: 2025
+  doi: "10.1016/j.oceaneng.2025.122693"
+
+
